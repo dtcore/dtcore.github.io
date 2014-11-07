@@ -546,11 +546,14 @@ label {
   opacity: 1;
   filter: alpha(opacity=100);
 }
+#portfolio a {
+  color: #fff;
+}
 #portfolio .mix > div .media-desc {
   opacity: 0;
   filter: alpha(opacity=0);
-  background: #84c225  ;
-  background: rgba(132,194,37, 0.8);
+  background: #84c225;
+  background: rgba(74,143,0, 0.8);
   color: #fff;
   color: rgba(255, 255, 255, 0.7);
   position: absolute;
@@ -573,6 +576,7 @@ label {
   position: absolute;
   bottom: 0;
   left: 0;
+  top: 20px;
 }
 #portfolio .mix > div .media-desc b {
   color: #fff;
@@ -607,6 +611,7 @@ label {
 .features .media > i {
   font-size: 28px;
   line-height: 55px;
+  color: #fff;
   margin-right: 25px;
   width: 60px;
   height: 60px;
