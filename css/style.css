@@ -786,13 +786,13 @@ label {
   width: 20px;
   text-align: center;
 }
-.panel-title a .icon-minus {
+.panel-title a .icon-plus {
   display: none;
 }
-.panel-title a.collapsed .icon-minus {
+.panel-title a.collapsed .icon-plus {
   display: block;
 }
-.panel-title a.collapsed .icon-plus {
+.panel-title a.collapsed .icon-minus {
   display: none;
 }
 /*= TESTIMONIAL
