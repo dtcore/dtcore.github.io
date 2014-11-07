@@ -461,6 +461,9 @@ label {
 .section-headlines > div {
   line-height: 1.8;
 }
+.section-headlines a {
+  color: #fff;
+}
 /*= SPLASH
 ---------------------------------------------------------------------------------------------- */
 .splash-cover {
@@ -853,3 +856,9 @@ label {
 	color: red;
 	display:none;
 }
+#SkypeButton_Call_ralexandrv_1, #SkypeButton_Call_ralexandrv_1 p {
+  display: inline
+}
+.skype.image {
+}
+
